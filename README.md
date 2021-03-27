@@ -4,4 +4,6 @@ Bu proje eğitim amaçlı oluşturulmuştur ve GitHub denemeleri için kullanıl
 
 Merhaba !!!!!!!!!!!!!
 
+> UpSchool Android Development
+
 Egitim hesabı ile Ana projenin dosyasında değişim yaptık.
